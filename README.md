@@ -12,6 +12,8 @@
 * **Tools Used:** Hypothesis Testing, Linear Regression, and ANOVA in Jupyter Notebooks.
 * **Impact:** Provides a framework for identifying and resolving production problems through data-driven insights.
 
-## 🛠 Tech Stack
-* **Programming:** Python (NumPy, SciPy), MATLAB.
-* **Analytics:** Statistical Modeling, ANOVA, Regression.
+### 3. Featured Research: Wastewater Process Resilience
+**Project:** Investigating Nitrification Stability in Dilution Gradients.
+* **Key Focus:** Analyzed the robustness of biological nutrient removal (BNR) under varying hydraulic loads.
+* **Techniques:** Ion Chromatography, TOC Analysis, and longitudinal monitoring of AN, Nitrite, and Nitrate.
+* **Finding:** Confirmed process stability at 1:3 dilution ratios, demonstrating high microbial community resilience.
